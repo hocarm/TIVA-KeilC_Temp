@@ -1,0 +1,8 @@
+--cpu Cortex-M4.fp
+".\out\main.o"
+".\out\startup_rvmdk.o"
+"C:\ti\TivaWare_C_Series-2.1.2.111\driverlib\rvmdk\driverlib.lib"
+--strict --scatter ".\Out\Out.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Lst\Out.map" -o .\Out\Out.axf

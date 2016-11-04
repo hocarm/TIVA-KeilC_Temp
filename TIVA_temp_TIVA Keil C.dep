@@ -1,0 +1,9 @@
+Dependencies for Project 'TIVA_temp', Target 'TIVA Keil C': (DO NOT MODIFY !)
+F (.\main.c)(0x581CA277)(-c --cpu Cortex-M4.fp -g -O2 --apcs=interwork --split_sections -IC:\ti\TivaWare_C_Series-2.1.2.111-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-Drvmdk -DPART_TM4C123GH6PM -DTARGET_IS_TM4C123_RB1 -DTM4C123GH6PM-o .\out\main.o --omf_browse .\out\main.crf --depend .\out\main.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7D364)
+I (C:\Keil\ARM\ARMCC\include\stdbool.h)(0x51C7D364)
+I (C:\ti\TivaWare_C_Series-2.1.2.111\inc\hw_memmap.h)(0x56ADEA0A)
+I (C:\ti\TivaWare_C_Series-2.1.2.111\driverlib\gpio.h)(0x56ADE9AF)
+I (C:\ti\TivaWare_C_Series-2.1.2.111\driverlib\sysctl.h)(0x56ADE9AF)
+F (.\startup_rvmdk.S)(0x56ADE9DD)(--cpu Cortex-M4.fp -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123--list .\lst\startup_rvmdk.lst --xref -o .\out\startup_rvmdk.o --depend .\out\startup_rvmdk.d)
+F (C:\ti\TivaWare_C_Series-2.1.2.111\driverlib\rvmdk\driverlib.lib)(0x56ADE9B0)()
